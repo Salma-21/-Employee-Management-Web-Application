@@ -1,91 +1,31 @@
 [ {
-  "knownLanguages" : [ ],
-  "designation" : null,
-  "employeeID" : null,
-  "lastName" : null,
-  "firstName" : null
+  "FirstName" : "yy",
+  "LastName" : "645",
+  "EmployeeID" : "1",
+  "Designation" : "456",
+  "knownLanguages" : [ {
+    "scoreOutof100" : 65,
+    "languageName" : "yw"
+  }, {
+    "scoreOutof100" : 5,
+    "languageName" : "wsy5w56"
+  }, {
+    "scoreOutof100" : 66,
+    "languageName" : "etg"
+  } ]
 }, {
-  "knownLanguages" : [ ],
-  "designation" : null,
-  "employeeID" : null,
-  "lastName" : null,
-  "firstName" : null
-}, {
-  "knownLanguages" : [ ],
-  "designation" : null,
-  "employeeID" : null,
-  "lastName" : null,
-  "firstName" : null
-}, {
-  "knownLanguages" : [ ],
-  "designation" : null,
-  "employeeID" : null,
-  "lastName" : null,
-  "firstName" : null
-}, {
-  "knownLanguages" : [ ],
-  "designation" : null,
-  "employeeID" : null,
-  "lastName" : null,
-  "firstName" : null
-}, {
-  "knownLanguages" : [ ],
-  "designation" : null,
-  "employeeID" : null,
-  "lastName" : null,
-  "firstName" : null
-}, {
-  "knownLanguages" : [ ],
-  "designation" : null,
-  "employeeID" : null,
-  "lastName" : null,
-  "firstName" : null
-}, {
-  "knownLanguages" : [ ],
-  "designation" : null,
-  "employeeID" : null,
-  "lastName" : null,
-  "firstName" : null
-}, {
-  "knownLanguages" : [ ],
-  "designation" : null,
-  "employeeID" : null,
-  "lastName" : null,
-  "firstName" : null
-}, {
-  "knownLanguages" : [ ],
-  "designation" : null,
-  "employeeID" : null,
-  "lastName" : null,
-  "firstName" : null
-}, {
-  "knownLanguages" : [ ],
-  "designation" : null,
-  "employeeID" : null,
-  "lastName" : null,
-  "firstName" : null
-}, {
-  "knownLanguages" : [ ],
-  "designation" : null,
-  "employeeID" : null,
-  "lastName" : null,
-  "firstName" : null
-}, {
-  "knownLanguages" : [ ],
-  "designation" : null,
-  "employeeID" : null,
-  "lastName" : null,
-  "firstName" : null
-}, {
-  "knownLanguages" : [ ],
-  "designation" : null,
-  "employeeID" : null,
-  "lastName" : null,
-  "firstName" : null
-}, {
-  "knownLanguages" : [ ],
-  "designation" : null,
-  "employeeID" : null,
-  "lastName" : null,
-  "firstName" : null
+  "FirstName" : "yy",
+  "LastName" : "hh",
+  "EmployeeID" : "100",
+  "Designation" : "j",
+  "knownLanguages" : [ {
+    "scoreOutof100" : 11,
+    "languageName" : "nj"
+  }, {
+    "scoreOutof100" : 4,
+    "languageName" : ",mn"
+  }, {
+    "scoreOutof100" : 8,
+    "languageName" : ",jh"
+  } ]
 } ]

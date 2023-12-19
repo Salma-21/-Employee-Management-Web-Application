@@ -1,6 +1,8 @@
 package com.example.demo;
-
 import java.util.List;
+import com.fasterxml.jackson.databind.annotation.JsonSerialize;
+
+@JsonSerialize(using = EmployeeSerializer.class)
 
 public class Employee {
     private String FirstName;
